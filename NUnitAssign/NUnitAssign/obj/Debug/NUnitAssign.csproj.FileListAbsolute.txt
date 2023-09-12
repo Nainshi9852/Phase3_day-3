@@ -1,0 +1,9 @@
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\bin\Debug\NUnitAssign.dll
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\bin\Debug\NUnitAssign.pdb
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\bin\Debug\nunit.framework.dll
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\bin\Debug\nunit.framework.xml
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\obj\Debug\NUnitAssign.csproj.AssemblyReference.cache
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\obj\Debug\NUnitAssign.csproj.CoreCompileInputs.cache
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\obj\Debug\NUnitAssign.csproj.CopyComplete
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\obj\Debug\NUnitAssign.dll
+D:\Indeed2\Phase-3\Daily-Exercises\Day-3\NUnitAssign\NUnitAssign\obj\Debug\NUnitAssign.pdb
